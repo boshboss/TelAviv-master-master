@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "306685915261",
+    "firebase_url": "https://telaviv-master.firebaseio.com",
+    "project_id": "telaviv-master",
+    "storage_bucket": "telaviv-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306685915261:android:f439c6230462c9c4",
+        "android_client_info": {
+          "package_name": "com.example.hp1.telaviv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306685915261-d4hhake6hsqrgk57v4avd9f4qggsjasu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp1.telaviv",
+            "certificate_hash": "7994e7e748594e74fc813d64187e850a3d6e4f4b"
+          }
+        },
+        {
+          "client_id": "306685915261-e3gc30j8ngo7p82ak219j9suh4vsokth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASxKFD0MPTHsJCKRdIoREw-kWyRmh1l7Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306685915261-e3gc30j8ngo7p82ak219j9suh4vsokth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

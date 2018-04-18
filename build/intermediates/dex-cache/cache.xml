@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-11.0.4_5aa5f35d321e288873a43388a74b35c1cefcd378\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_71e312343597a59204c6b2f4719535bb701b9086\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fadbda654415d2c51b042d7e2d6a3252c1dde6ce">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f10167d45c4a0c3c93dfdd37e03e66a76939bd05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_02af081a9c42fcc5c345a73156bbd3a7ff058c4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-11.0.4_7078ecdcd72a8f30d31ad7d7b335ddea89666a23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-11.0.4_4116904c087098711b5933da9ee49e0b91a8c145\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_81b4dc743c8117046a306f44ec50b52b37cee049\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-11.0.4_75055120011639f3e019912c74974a2569a64fbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-11.0.4_ab257fc1cf00fb0d4dd7ae4054653dcf6a5f6f21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_db10e56529ed10e40dc120d74247123361d5d87a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_64a30067dc1a2651567b62d1fec00850f6ebf981\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_c428bc75ee548c0c204bbddfeb9e222707dbd02c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="df312527d7a77cbad7ddca779ba2ee925ef9a815">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fd202e7632910117767c2f0dcb296d98309d66a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_526f4290160adc2301fe8c573d8b3a5ad0811574\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-11.0.4_88e75053e15128a2d6a0ddb87b7bb67b72516951\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_8ff44cd63546d7863063d3cd9d1c42d5b0f614d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-11.0.4_ea6aea98931448c43609b4248198eb03070d28dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_02527ab1760f4bde3168f1dba8a19eb205073bad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_dc7036a951a28f3a46e08f7117f1cc24b0612129\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-11.0.4_ba6074cbc8b02f8ec73e04028f84bdfdf775c41c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_8805a0a6d044b4c5eda4abde5eb4f6c6bd9dc509\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_828465c737311be720c8a96f0d15ef5aa859c2d5\classes.dex" />
+    </item>
+
+</items>

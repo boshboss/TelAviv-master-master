@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.1"
+    timestamp="149833565944691"
+    token="1680544977663123670"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2354" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="922" />
+    <task
+        name="verifier"
+        duration="199" />
+
+    <artifact
+        location="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="149833565944691"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Hp1\Downloads\TelAviv-master-master\TelAviv-master-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
